@@ -1,50 +1,78 @@
-h1{
 
-  text-align: center;
-}
 
-h2 {
-  color: blue;
-  float: center;
-}
+	h1{
 
-h3 {
-  color: blue;
-  float: center;
+		text-align: center;
+		margin-top: center;
+		color:#CEECF5
+	}
+	h2 {
+	  color: blue;
+	  float: center;
+	}
 
-}
-p {
-  font-family: sans-serif;
-  text-align: center;
-  font-size: 20px;
-}
+	a:link{
 
-ul {
-  font-size: 20px;
-  line-height: 30px;
-  text-align: center;
-  list-style-type: none;
-  color : green;
-}
+		font-family: sans-serif;
+		padding-base-vertical:6px;
+		background-color: transparent;
+		color:#1803AD
 
-body {
+	}
+	p{
+		text-align: center;
+		font-family: sans-serif;
+		padding-base-vertical:6px;
+		color:#black
 
-}
-div.name{
-  background-color:grey;
-  border-radius:10%
-  text-align: center;
+	 }
 
-}
+	img {
+		width: 100px;
+		height: 100px;
+		border: 3px solid #73AD21;
+	}
 
-div.container{
-
-  border: solid;
-  border-radius: 10%;
-  background-color: lightblue;
-  text-align: center;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  width: 60%;
+nav{
+	align-self: auto;
 
 }
+	li {
+		margin-top: center;
+		text: center;
+		font-family: sans-serif;
+		padding-base-vertical:6px;
+		color:#CEECF5
+
+	}
+	ul {
+	  font-size: 20px;
+	  line-height: 30px;
+	  text-align: center;
+	  list-style-type: none;
+	  color : green;
+	}
+
+	/*div.name{
+	  background-color:grey;
+	  border-radius:10%
+	  text-align: center;
+
+	}*/
+
+	div.container{
+
+	  border: solid;
+	  border-radius: 10%;
+	  background-color: lightblue;
+	  text-align: center;
+	  margin-top: 10px;
+	  margin-bottom: 10px;
+	  width: 60%;
+
+	}
+
+
+
+
+/
