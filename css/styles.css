@@ -4,7 +4,11 @@
 
 		text-align: center;
 		margin-top: center;
-		color:#CEECF5
+		font-family: 'Kaushan Script', cursive;  text-shadow:
+      -1px -1px 5px #C70404,
+      1px -1px 5px #C70404,
+      -1px 1px 5px #C70404,
+      1px 1px 5px #C70404;
 	}
 	h2 {
 	  color: blue;
@@ -13,7 +17,7 @@
 
 	a:link{
 
-		font-family: sans-serif;
+		font-family: 'Kaushan Script', cursive;
 		padding-base-vertical:6px;
 		background-color: transparent;
 		color:#1803AD
