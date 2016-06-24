@@ -17,7 +17,7 @@
 
 	a:link{
 
-		font-family: 'Kaushan Script', cursive;
+		font-family: sans-serif;
 		padding-base-vertical:6px;
 		background-color: transparent;
 		color:#1803AD
@@ -39,6 +39,7 @@
 
 nav{
 	align-self: auto;
+	width: 100%;
 
 }
 	li {
